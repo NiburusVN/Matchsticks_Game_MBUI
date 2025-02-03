@@ -11,7 +11,7 @@ During the highschool in 2022, i had a mini-project to do by myself to show all 
 
 ## What about this game :
 
-Matchsticks Game is a 1v1 game where the last player who picks up a matchstick lose the game.
+Matchsticks Game is a 1v1 game where the last player who picks up the last matchstick lose the game.
 
 
 ## A little look of the UI of the game :
