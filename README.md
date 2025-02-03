@@ -1,7 +1,7 @@
 **! IMPORTANT ! This project is an old project that I transfer in GitHub. The reason is that I used only GitLab and my local repositories from my old laptop.**
 
 # [Matchsticks_Game]
-A game that uses O.O.D - The first real O.O.D mini-project that we ever made with my partner.
+A game that uses O.O.D - The first real O.O.D mini-project that i made by myself.
 
 
 ## Introduction :
