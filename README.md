@@ -6,7 +6,7 @@ A game that uses O.O.D - The first real O.O.D mini-project that i made by myself
 
 ## Introduction :
 
-During the highschool in 2022, i had a mini-project to do by myself to show all my O.D.D knowledges to my IT professor.
+During the highschool in 2022, i had a mini-project to do by myself to show all my O.O.D knowledges to my IT professor.
 
 
 ## What about this game :
